@@ -1,0 +1,5 @@
+# Ignoring tons of NetBeans BS
+build/
+nbproject/
+build.xml
+manifest.mf
